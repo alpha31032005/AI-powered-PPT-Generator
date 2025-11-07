@@ -80,6 +80,6 @@ topic = "Artificial Intelligence in Agriculture"
 #Author
 
 **Nishant Bayaskar**  
-GitHub: https://github.com/alpha31032005
 
+GitHub: https://github.com/alpha31032005
 LinkedIn: https://www.linkedin.com/in/nishant-bayaskar-ba1323262/
