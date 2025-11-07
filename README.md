@@ -7,6 +7,7 @@ The system uses **Gemini 2.5 Pro API** to create slide content and **python-pptx
 ---
 
 #Features
+
 ✔ Generate PPTs from any topic  
 ✔ Slide-wise title + content generation  
 ✔ Adds relevant images using the Pexels API  
@@ -35,6 +36,7 @@ The system uses **Gemini 2.5 Pro API** to create slide content and **python-pptx
 ---
 
 #Project Structure
+
 ppt_generator.py
 requirements.txt
 README.md
