@@ -40,8 +40,10 @@ The system uses **Gemini 2.5 Pro API** to create slide content and **python-pptx
 
 #Project Structure
 
-ppt_generator.py
+ppt_generator.py                                
+
 requirements.txt
+
 README.md
 
 ---
@@ -81,5 +83,5 @@ topic = "Artificial Intelligence in Agriculture"
 
 **Nishant Bayaskar**  
 
-GitHub: https://github.com/alpha31032005
+GitHub: https://github.com/alpha31032005, 
 LinkedIn: https://www.linkedin.com/in/nishant-bayaskar-ba1323262/
