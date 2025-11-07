@@ -1,6 +1,7 @@
 # AI-Powered PPT Generator using Gemini 2.5 Pro API
 
 #Overview
+
 A Python-based automation tool that generates complete PowerPoint presentations from a user-provided topic.  
 The system uses **Gemini 2.5 Pro API** to create slide content and **python-pptx** to build structured and formatted slides automatically.
 
@@ -17,6 +18,7 @@ The system uses **Gemini 2.5 Pro API** to create slide content and **python-pptx
 ---
 
 #Tech Stack
+
 - Python  
 - Gemini 2.5 Pro API (google-generativeai)
 - python-pptx
@@ -27,6 +29,7 @@ The system uses **Gemini 2.5 Pro API** to create slide content and **python-pptx
 ---
 
 #How it Works
+
 1. User provides a topic  
 2. Script calls Gemini 2.5 Pro API and generates structured slide content (JSON)  
 3. Slides are programmatically created using python-pptx  
@@ -44,6 +47,7 @@ README.md
 ---
 
 #How to Run
+
 1. Clone repo  
 git clone <your-repo-link>
 
@@ -74,8 +78,8 @@ topic = "Artificial Intelligence in Agriculture"
 ---
 
 #Author
+
 **Nishant Bayaskar**  
 GitHub: https://github.com/alpha31032005
+
 LinkedIn: https://www.linkedin.com/in/nishant-bayaskar-ba1323262/
-ini
-Copy code
